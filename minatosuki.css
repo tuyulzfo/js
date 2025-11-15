@@ -1,0 +1,42 @@
+body{
+max-width:480px;
+margin:1px auto;
+font-family: sans-serif; 
+font-size:small;
+text-align:left;
+}
+a:link,a:visited,a:active{color: #FF1493;text-decoration:none;}
+a:hover{text-decoration:none;color:#fff;padding: 1px 2px 1px 2px;background-color:#FF8B6F;}
+.prem3{background-color:#FF1493;background-repeat:repeat-x;background-position:bottom;text-align:center;font-family:Arial;font-size:14px;color:#FFF;font-weight:bold;padding:3px;border:1px outset #333;text-shadow: 1px 1px 2px #333;}
+.h a{color:#fff;border:0px;text-decoration:underline;} 
+.darker, .xt_blog_comment_author{background-color: #ebebeb;text-align:center;vertical-align:middle;color:#f00;padding:2px;margin-bottom: 3px;font-family:Arial;font-size:14px;}
+div.darker, .xt_blog_comment_author a{border:0px;text-decoration:underline;}
+div.p, .xt_blog_comment_author a:hover{text-decoration:none;}
+.center{text-align:center;}
+.o,.m,.str,img, form{border:0px;color:#f66;}
+.copy{text-shadow: 1px 1px 2px #333;font-size:11px;background-color:#f85959;color:#fff;border:1px outset #f85959;padding:2px;} 
+.copy a{color:#fff;}
+.copy2{background-color:#FFD5D5;}
+hr{text-align:left;width:60%;border: 1px dotted #f66;}
+h1{font-size:11px;margin:0px;font-weight:normal;}
+.bl{padding: 0 4px 1px 4px;border-left:3px solid #f66;margin:3px 0px 3px 0px}
+.catRow, .xt_blog_comment, .xt_blog_title{background-color: #ffffff; padding: 3px; border: 1px solid #FF1493;}
+.container {  &amp;__image {    width: 250px;    float: left;  }  &amp;__text {    display: inline;  }}
+.grn{color: #228B22;}
+.red{color: #FF0000;}
+div.filelist_paging a:before
+{ content:" "; }
+div.filelist_paging a:after
+{ content:" "; } div.filelist_paging span:before
+{ content:"["; }
+div.filelist_paging span:after
+{ content:"]"; }
+
+div.filelist_paging a:before{ content:" "; }
+div.filelist_paging a:after{ content:" "; } div.filelist_paging span:before{ content:"["; }
+div.filelist_paging span:after{ content:"]"; }
+.filelist_paging{background-color: #ffffff; padding: 3px; border:1px solid #FF1493;font-weight:bold;}
+
+#supportus { margin: 1px; height: 1px }
+#supportus .left { float: left; width: 320px; height: 50px; background-image: url(http://minatosuki.com/img/edkocok.jpg); }
+#supportus .right { float: right; width: 215px; height: 90px; border: 1px solid #ddd; }
